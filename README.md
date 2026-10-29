@@ -27,6 +27,7 @@ Deploying commercial hardware in VLEO presents severe environmental challenges t
 *   **Massive Cost Reduction:** Eliminates the need for heavy, expensive physical shielding on micro-satellites by replacing hardware vulnerabilities with ultra-lightweight, deterministic software intelligence.
 *   **Constellation Scaling:** Enables commercial operators to safely deploy mass-produced, cost-effective MEMS sensors into low-altitude profiles, multiplying data acquisition rates and boosting data-driven revenues.
 
+<img width="653" height="420" alt="Image" src="https://github.com/user-attachments/assets/88d7f86e-d62c-40d9-824f-9cdf49dcb323" />
 ---
 
 ## ⚡ 4. High-Level Concept & Core Innovation
