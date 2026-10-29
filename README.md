@@ -41,7 +41,8 @@ The engine operates on a framework of pure mathematical certainty and zero-laten
 
 *(Note: The underlying mathematical formulations, localized atmospheric parameters, specific input vectors, and the nature of the target physical phenomena are corporate trade secrets and are completely omitted from this public framework).*
 
----
+--<img width="633" height="291" alt="Image" src="https://github.com/user-attachments/assets/b2f32c0d-4b29-457b-a9c8-92b62f099205" />
+-
 
 ## 🔒 5. Source Code Confidentiality & Repository Status
 
